@@ -1,0 +1,18 @@
+{
+    "name": "vitaliy/my-projects",
+    "autoload": {
+        "psr-4": {
+            "Vitaliy\\MyProjects\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vitaliy Blazhko",
+            "email": "blazkoit@gmail.com"
+        }
+    ],
+    "require": {
+        "larapack/dd": "1.*",
+      "ext-pdo": "*"
+    }
+}
